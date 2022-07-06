@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" media="screen" />
+<title>Administrator....</title>
+<script type="text/javascript">
+
+function showalert()
+{
+ var uid=document.getElementById("adminid").value;
+ var upasswd=document.getElementById("passwd").value;
+ if(uid=="")
+ {
+   alert("Fill user id");
+   document.getElementById("adminid").focus();
+   return false;
+  }
+ if(upasswd=="")
+ {
+  alert("Fill password");
+   document.getElementById("passwd").focus();
+   return false;
+ }
+ 
+}
+</script>
+</head>
+<body background="images/bg.jpg">
+<form name="mpg" action="" method="post" title="Admin_login">
+<center>
+<div style=" background-color:#003300; width:400px; font-family:'Times New Roman', Times, serif; height:400px; font-size:xx-large; color:#CCCCCC;">
+<table>
+<tr><td colspan="2"><marquee><h2>Administrator</h2></marquee></td></tr>
+<tr></tr>&nbsp;&nbsp;
+<tr><td align="center"><label>Admin id</label> </td><td><input id="adminid" type="text" name="admin"></td></tr>
+<tr><td align="center"><label>PassWord</label></td><td><input id="passwd" type="password" name="apasswd"></td></tr>
+<tr><td></td><td><input type="Submit" name="sub" value="Submit" onClick="return showalert();"></input></td></tr>
+</table>
+</div>
+</center>
+</form>
+<div id="footer">
+<p>Copyright  2012. Designed by <!-- Do not Remove -->
+<a href="http://www.cgtech.com/" title="Mahesh">$MPG$</a>
+<!--End of notice --></p>
+<p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+	</div>
+</body>
+</html>
