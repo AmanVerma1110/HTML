@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>On line tourism Guide</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="content">
+        <!-- header begins -->
+        	<div id="header">
+                 <div id="logo">
+                    <h1><a href="index.html">On line Tourism guide </a></h1>
+                    <h2><a href="index.html" id="metamorph">Welcomes you all </a></h2>
+                 </div>
+                  <div id="menu">
+                    <ul>
+                        <li><a href="index.html"  title="Home">Home</a></li>
+                        <li><a href="Registration.html" title="Registration">Registration</a></li>
+                        <li><a href="Gallery.html" title="Gallery">Gallery</a></li>
+                        <li><a href="About us.html" title="About">About</a></li>
+                        <li><a href="Contact us.html" title="Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- header ends -->
+          <div style="background-color:#006633; color:#DDDDDD color: #DDDDDD">
+		  <p style="font-size:larger;font-family:'Lucida Calligraphy'" >
+     <br />
+     &nbsp&nbsp&nbsp I am persuing A level from UPTEC Computer Consultancy, Lucknow. I have done my schooling from Bapu Inter College Pipiganj,Gorakhpur,Utter Pradesh(India).
+  <br/> &nbsp&nbsp I like person who helps other without any selfish.
+        I make myself happy all time ...<br /> I am a friendly person and i am sure you all will like my company... 
+                so please my friends sssmmmiiillleee.....<br/><br/>
+   &nbsp&nbsp&nbsp Objective:<br/>
+  &nbsp&nbsp&nbsp&nbsp To be recognized as one of the best Computer Professional in the industry through Creative innovations, practical implementation and distinctive performance.<br/><br/>
+  &nbsp&nbsp&nbsp&nbsp Work Experience:<br/>
+  &nbsp&nbsp&nbsp&nbsp Two Years Teaching Experience of Programming Languages like C, C++, JAVA,Data Structure(using c) as a Coaching Teacher.<br/><br/>
+  &nbsp&nbsp&nbsp Hobbies:<br/>
+  &nbsp&nbsp&nbsp Music,Playing Computer Game , VolleyBall,Reading books.<br/><br/>
+  &nbsp&nbsp&nbsp Computer Skills:<br/>
+  &nbsp&nbsp - Knowledge of Programming Languages like C,C++,ASP.NET(C#),Java.<br/>
+  &nbsp&nbsp - Complete Windows Operating System Knowledge.<br/>
+  &nbsp&nbsp - Working Knowledge of MS Office
+</p>
+</div>
+<div id="footer">
+<p>Copyright  2012. Designed by <!-- Do not Remove -->
+<a href="http://www.cgtech.com/" title="Mahesh">$MPG$</a>
+<!--End of notice --></p>
+<p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+	</div>
+</body>
+
+</html>
